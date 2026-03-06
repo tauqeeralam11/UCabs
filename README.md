@@ -169,7 +169,7 @@ https://developer.tomtom.com
 
 ```bash
 git clone https://github.com/tauqeeralam11/UCabs.git
-cd ucabs
+cd UCabs
 ```
 
 ---
