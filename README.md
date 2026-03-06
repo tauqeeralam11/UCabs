@@ -168,7 +168,7 @@ https://developer.tomtom.com
 # 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/tauqeeralam11/ucabs.git
+git clone https://github.com/tauqeeralam11/UCabs.git
 cd ucabs
 ```
 
